@@ -3,8 +3,8 @@
   "description": "js cookie container for revgaming app",
   "author": "estagent <estagent@gmail.com>",
   "homepage": "https://github.com/estagent/preference",
-  "version": "1.0.1",
-  "devDependencies": {
+  "version": "1.0.2",
+  "dependencies": {
     "js-cookie": "^2.2.1"
   },
   "main": "index.js"
